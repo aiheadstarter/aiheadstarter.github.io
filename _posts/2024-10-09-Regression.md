@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "회귀방정식 실습예제 입니다."
+---
+
 ```python
 # 필요한 라이브러리를 불러옵니다.
 import pandas as pd
